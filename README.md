@@ -5,7 +5,12 @@
 
 Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS PHP, etc.I've done multiple projects in a wide range of industries including eCommerce, LMS, fintness, etc.   
 ####     
-![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green) ![](https://img.shields.io/badge/Djanog.js-blue)  ![](https://img.shields.io/badge/Flask.js-blue) ![](https://img.shields.io/badge/RubyonRails-blue) ![](https://img.shields.io/badge/AWS-Green)
+<p align="center">
+![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green) ![](https://img.shields.io/badge/Djanog.js-blue)  ![](https://img.shields.io/badge/Flask.js-blue) ![](https://img.shields.io/badge/AWS-Green)
+</p>
+<p align="center">
+![](https://img.shields.io/badge/eCommerce-blue) ![](https://img.shields.io/badge/CMS-blue) ![](https://img.shields.io/badge/Shopify-blue) ![](https://img.shields.io/badge/STRAPI-blue) ![](https://img.shields.io/badge/WebFlow-blue)
+</p>
 
 <h2 font-weight="bold">Contributions</h2> 
 <h1 align="center"></h1>
