@@ -50,7 +50,7 @@ Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on differe
   </tr>
 </table>
 
-## 𝐖𝐡o ask me
+## 𝐖𝐡at can I do?
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
