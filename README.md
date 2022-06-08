@@ -3,17 +3,17 @@
 <img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="Ciprianwork" /> 
 </p>
 
-Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, PHP, React JS, Typescript, Vue.JS etc. I've started my freelancing career in 2021 and succeeding it until now. I've done multiple projects in a wide range of industries including eCommerce, LMS, fintness, etc.   
-
+Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS PHP, etc.I've done multiple projects in a wide range of industries including eCommerce, LMS, fintness, etc.   
 ####     
 ![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green) ![](https://img.shields.io/badge/Djanog.js-blue)  ![](https://img.shields.io/badge/Flask.js-blue) ![](https://img.shields.io/badge/RubyonRails-blue)
 
-
+<h2 font-weight="bold">Contributions</h2> 
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=ciprianwork&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
-<img height="150px" />
-<br/>  
+<img height="150px" />  
+<img src="https://activity-graph.herokuapp.com/graph?username=ciprianwork&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<br/>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
