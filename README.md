@@ -5,12 +5,10 @@
 
 Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS PHP, etc.I've done multiple projects in a wide range of industries including eCommerce, LMS, fintness, etc.   
 ####     
-<p align="center">
 ![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green) ![](https://img.shields.io/badge/Djanog.js-blue)  ![](https://img.shields.io/badge/Flask.js-blue) ![](https://img.shields.io/badge/AWS-Green)
-</p>
-<p align="center">
+
 ![](https://img.shields.io/badge/eCommerce-blue) ![](https://img.shields.io/badge/CMS-blue) ![](https://img.shields.io/badge/Shopify-blue) ![](https://img.shields.io/badge/STRAPI-blue) ![](https://img.shields.io/badge/WebFlow-blue)
-</p>
+
 
 <h2 font-weight="bold">Contributions</h2> 
 <h1 align="center"></h1>
@@ -20,19 +18,17 @@ Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills s
 <img src="https://activity-graph.herokuapp.com/graph?username=ciprianwork&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
+<table align="center">
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/yii-2-1175059.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
@@ -43,12 +39,6 @@ Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills s
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-21-1175088.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/xcode-3521822-2945239.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
@@ -69,7 +59,7 @@ Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills s
 ### Perfect MERN, MEVN, Laravel & Vue Full-Stack Web Developing
 <br />
 
-### Django, Flask, Ruby on Rails
+### Django & Flask
 <br />  
 
 </div>
