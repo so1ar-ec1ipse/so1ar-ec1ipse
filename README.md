@@ -58,7 +58,7 @@ Hi, I am a Full Stack Blockchain & Web Developer. I own a strong hold on differe
 ### Mobile-first development, Pixel-perfect
 <br />
 
-### Best Front-end Developing with Mordern Front-end Frameworks
+### Best Front-end Development using Mordern JavaScript/Typescript Frameworks & Libraries
 <br />
 
 ### Perfect MERN, MEVN, Laravel & Vue Full-Stack Web Developing
