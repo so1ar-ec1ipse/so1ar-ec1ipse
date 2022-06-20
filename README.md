@@ -2,7 +2,7 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="Ciprianwork" /> 
 </p>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielebelfiore" alt="danielebelfiore" /></a>
 Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS PHP, etc.I've done multiple projects in a wide range of industries including eCommerce, LMS, fintness, etc.   
 ####     
 ![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green) ![](https://img.shields.io/badge/Djanog.js-blue)  ![](https://img.shields.io/badge/Flask.js-blue) ![](https://img.shields.io/badge/AWS-Green)
