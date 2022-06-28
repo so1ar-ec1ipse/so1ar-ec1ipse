@@ -17,8 +17,7 @@ Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills s
     <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
   </p>
   <p>
-    
-    
+    <h3>Alexandru Cosptel</h3>
   </p>
 <br/>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
