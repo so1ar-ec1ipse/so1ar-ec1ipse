@@ -16,7 +16,7 @@ Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills s
     <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=ciprianwork&show_icons=true&theme=merko&count_private=true" />
     <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
   </p>
-  <p>
+  <p align="center">
     <h3>Alexandru Cosptel</h3>
   </p>
 <br/>
