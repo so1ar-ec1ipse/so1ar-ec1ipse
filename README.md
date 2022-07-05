@@ -12,8 +12,8 @@ I've done multiple projects in a wide range of industries including eCommerce, L
 
 <h2 font-weight="bold">Contributions</h2> 
   <p>
-    <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
     <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=ciprianwork&show_icons=true&theme=merko&count_private=true" />
+    <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
   </p>
 <br/>
 <h2 font-weight="bold" align="center">
