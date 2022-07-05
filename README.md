@@ -36,6 +36,7 @@ I've done multiple projects in a wide range of industries including eCommerce, L
     <td><img src="https://javascriptforwp.com/wp-content/uploads/2019/03/badge-gatsby.png" width="100"></td>
   </tr>
   <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/747px-Svelte_Logo.svg.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
@@ -46,7 +47,6 @@ I've done multiple projects in a wide range of industries including eCommerce, L
     <td><img src="https://image.pngaaa.com/563/3886563-middle.png" width="100"></td>
     <td><img src="https://symbols.getvecta.com/stencil_101/24_webflow-icon.128834954b.svg" width="100"></td>
     <td><img src="https://images.opencollective.com/strapi/3ec3247/logo/256.png" width="100"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/747px-Svelte_Logo.svg.png" width="100"></td>
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-3521596-2945040.png"  width="100"/></td>
