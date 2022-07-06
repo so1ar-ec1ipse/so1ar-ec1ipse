@@ -1,8 +1,8 @@
 ### Senior JavaScript Engineer || Full Stack Developer 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="Ciprianwork" /> 
+<img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="webwavesurf" /> 
 </p>
-<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ciprianwork" alt="Ciprianwork" /></a> -->
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webwavesurf" alt="webwavesurf" /></a> -->
 
 Hi, I am a Senior JavaScript Engineer who has various skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS, Next.js, Svelte, etc.
 I've done multiple projects in a wide range of industries including eCommerce, LMS, fintness, etc.   
@@ -12,7 +12,7 @@ I've done multiple projects in a wide range of industries including eCommerce, L
 
 <h2 font-weight="bold">Contributions</h2> 
   <p>
-    <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=ciprianwork&show_icons=true&theme=merko&count_private=true" />
+    <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=webwavesurf&show_icons=true&theme=merko&count_private=true" />
     <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
   </p>
 <br/>
