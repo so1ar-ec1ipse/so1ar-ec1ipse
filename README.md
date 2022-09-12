@@ -7,7 +7,7 @@
 Hi, I am a Senior JavaScript Engineer who has various skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS, Next.js, Svelte, etc.
 I've done multiple projects in a wide range of industries including eCommerce, LMS, fintness, etc.   
 ####     
-![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green) ![](https://img.shields.io/badge/eCommerce-blue) ![](https://img.shields.io/badge/CMS-blue) ![](https://img.shields.io/badge/Shopify-blue) ![](https://img.shields.io/badge/STRAPI-blue) ![](https://img.shields.io/badge/WebFlow-blue)
+![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green) ![](https://img.shields.io/badge/eCommerce-blue) ![](https://img.shields.io/badge/CMS-blue) ![](https://img.shields.io/badge/Shopify-blue) ![](https://img.shields.io/badge/STRAPI-blue) ![](https://img.shields.io/badge/Supabase-blue)
 
 
 <h2 font-weight="bold">Contributions</h2> 
@@ -45,7 +45,7 @@ I've done multiple projects in a wide range of industries including eCommerce, L
     <td><img src="https://mui.com/static/logo.png" width="100"></td>
     <td><img src="https://www.chartjs.org/media/logo-title.svg" width="100"></td>
     <td><img src="https://image.pngaaa.com/563/3886563-middle.png" width="100"></td>
-    <td><img src="https://symbols.getvecta.com/stencil_101/24_webflow-icon.128834954b.svg" width="100"></td>
+    <td><img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" width="100"></td>
     <td><img src="https://images.opencollective.com/strapi/3ec3247/logo/256.png" width="100"></td>
   </tr>
   <tr>
