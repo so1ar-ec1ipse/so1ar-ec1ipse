@@ -2,7 +2,6 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="so1ar-ec1ipse" /> 
 </p>
-<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=so1ar-ec1ipse" alt="so1ar-ec1ipse" /></a> -->
 
 Hi, I am a Senior JavaScript Engineer who has various skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS, Next.js, Svelte, etc.
 I've done multiple projects in a wide range of industries including eCommerce, LMS, fintness, etc.   
@@ -13,10 +12,7 @@ I've done multiple projects in a wide range of industries including eCommerce, L
 <h2 font-weight="bold">Contributions</h2> 
   <p>
     <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
-  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=so1ar-ec1ipse&show_icons=true&theme=merko&count_private=true" />
-    
-  
-    <!--img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /--> 
+    <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=so1ar-ec1ipse&show_icons=true&theme=merko&count_private=true" />
   </p>
 <br/>
 <h2 font-weight="bold" align="center">
