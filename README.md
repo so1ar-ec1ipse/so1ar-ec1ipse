@@ -2,7 +2,6 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="so1ar-ec1ipse" /> 
 </p>
-<a href="https://discord.com/users/948519262941741066"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/948519262941741066?bg=00000000" /></a>
 
 Hi, I am a Senior JavaScript Engineer who has various skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS, Next.js, Svelte, etc.
 I've done multiple projects in a wide range of industries including eCommerce, LMS, fintness, etc.   
